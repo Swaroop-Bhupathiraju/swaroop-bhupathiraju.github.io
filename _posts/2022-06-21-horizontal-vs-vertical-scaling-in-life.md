@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
+title:  "Comparing horizontal and vertical scaling in life"
+author: swaroop
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
